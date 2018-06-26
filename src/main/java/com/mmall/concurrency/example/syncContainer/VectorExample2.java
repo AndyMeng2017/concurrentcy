@@ -1,4 +1,4 @@
-package com.mmall.concurrency.syncContainer;
+package com.mmall.concurrency.example.syncContainer;
 
 import com.mmall.concurrency.annoations.NotThreadSafe;
 import lombok.extern.slf4j.Slf4j;
